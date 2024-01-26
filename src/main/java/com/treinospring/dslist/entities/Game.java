@@ -1,4 +1,4 @@
-package entities;
+package com.treinospring.dslist.entities;
 
 import jakarta.persistence.*;
 
